@@ -1,0 +1,110 @@
+<mxfile host="Electron" modified="2023-08-16T15:39:34.958Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="tZtsJ-L0VxFf6aHi-uYe" version="21.6.8" type="device">
+  <diagram name="Page-1" id="68iMVO8Qk7eV-dj80xDX">
+    <mxGraphModel dx="2653" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fnj2KOEIbmY5p7mjR7Fl-5" value="*$29 per month" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#03ba49;" parent="1" vertex="1">
+          <mxGeometry x="760" y="990" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-21" value="Categories" parent="0" />
+        <mxCell id="cbcUIHuJisMarYXD4MwR-39" value="" style="rounded=0;whiteSpace=wrap;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="160" y="30" width="2010" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-53" value="" style="endArrow=none;rounded=0;strokeWidth=9;" parent="cbcUIHuJisMarYXD4MwR-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1156" y="1050" as="sourcePoint" />
+            <mxPoint x="1156" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-54" value="" style="endArrow=none;rounded=0;strokeWidth=9;" parent="cbcUIHuJisMarYXD4MwR-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1646" y="1050" as="sourcePoint" />
+            <mxPoint x="1646" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-52" value="" style="endArrow=none;rounded=0;strokeWidth=9;" parent="cbcUIHuJisMarYXD4MwR-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="1050" as="sourcePoint" />
+            <mxPoint x="664" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-23" value="Tech Support via Email                                                                                                       24 hours till reply " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#66B2FF;fontSize=30;labelBorderColor=none;spacingRight=0;spacing=2;fontColor=#000000;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="710" y="170" width="750" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-20" value="Email Support Only for Billing and Account" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="210" y="160" width="450" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-19" value="Enterprise" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=45;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1760" y="50" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-9" value="Developer" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=45;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="830" y="50" width="215.24" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-2" value="Basic" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=45;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="330" y="50" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-16" value="Business" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=45;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1270" y="50" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-25" value="No third party support" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#990000;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="694" y="210" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-26" value="Tech Support via Chat/Phone Anytime 24/7                                             " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#66B2FF;fontSize=30;labelBorderColor=none;spacingRight=0;spacing=2;fontColor=#000000;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1170" y="250" width="760" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-27" value="General Guidance                                                                                                                                  &lt; 24hrs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#523718;fontSize=30;labelBorderColor=none;spacingRight=0;spacing=2;fontColor=#FFFFFF;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="690" y="330" width="760" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-28" value="System Impaired                                                                                                                                     &lt; 12hrs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#660000;fontSize=30;labelBorderColor=none;spacingRight=0;spacing=2;fontColor=#FFFFFF;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="690" y="410" width="760" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-29" value="Production System Impaired                                                            &lt; 4hrs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#990000;fontSize=30;labelBorderColor=none;spacingRight=0;spacing=2;fontColor=#FFFFFF;whiteSpace=wrap;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1170" y="490" width="970" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-30" value="Production System DOWN!                                                             &lt; 1hrs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#FF3333;fontSize=30;labelBorderColor=none;spacingRight=0;spacing=2;fontColor=#FFFFFF;whiteSpace=wrap;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1170" y="570" width="960" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-31" value="Critical System DOWN!       &lt;15min" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#FFCCCC;fontSize=30;labelBorderColor=none;spacingRight=0;spacing=2;fontColor=#000000;whiteSpace=wrap;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1660" y="650" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-47" value="" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=#003300;fillColor=#003300;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="200" y="880" width="940" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-49" value="" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=#003300;fillColor=#009900;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1170" y="880" width="960" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-46" value="7 Trusted Advisor Checks" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="490" y="881" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-50" value="All Trusted Advisor Checks" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1475" y="881" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-55" value="Free" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#03ba49;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="200" y="980" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-56" value="$29 per month" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#03ba49;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="750" y="980" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-57" value="$100 per month" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#03ba49;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1239" y="980" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-58" value="$15,000 Per Month" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#03ba49;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1660" y="980" width="460" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-32" value="" style="shape=actor;whiteSpace=wrap;strokeWidth=3;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1665" y="710" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-34" value="Personal Concierge" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1718" y="715" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-37" value="" style="shape=actor;whiteSpace=wrap;strokeWidth=3;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1665" y="800" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcUIHuJisMarYXD4MwR-38" value="TAM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" parent="cbcUIHuJisMarYXD4MwR-21" vertex="1">
+          <mxGeometry x="1718" y="805" width="280" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

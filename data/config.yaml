@@ -12,7 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/rmechery/AWS_Cloud_Practitioner_Notes/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
@@ -20,7 +20,7 @@ search:
 description:
   Notes I made in training for the AWS Cloud Practitioner Certification based on freecodecamp's AWS course by Andrew Brown.
 page_title:
-  "AWS Cloud Practitioner Notes"
+  "AWS CCP Notes"
 links:
   - link_name: Instagram
     link: https://www.instagram.com/ryan_mechery/
