@@ -6,7 +6,7 @@ date: 07/10/23
 ==Points of Presence (PoP)== is an intermediate location between an [AWS Region](03-01%20Global%20Infrastructure.md#regional-services) and the end user, and this location could be a [datacenter](03-01%20Global%20Infrastructure.md#b2786e) <span style="color:#ff0000">owned by AWS or a trusted partner</span> that is utilized by AWS Services related for **content delivery or expedited upload**. 
 
 PoPs live at the edge/intersection of two networks.   
-![450](images/03_Global_Infrastructure/PoP_Diagram.png%7C450.md)  
+![450](images/03_Global_Infrastructure/PoP_Diagram.png)  
 A ==Tier 1 Network== (like AWS) is a network that can reach every other network on the Internet <span style="color:#ff0000"></span><span style="color:#ff0000">without purchasing IP transit or paying for peering</span>. 
 
 ## Edge Locations
