@@ -25,10 +25,12 @@ The following AWS services use PoPs for content delivery or expedited upload:
 
 \#aws-service   
 ![75](images/icons/CloudFront_Icon.png)  
-==**Amazon CloudFront**== is a Content Delivery Network (CDN) that:  
-\* You point your website to CloudFront so that it will route requests to nearest Edge Location cache   
-\* allows you to choose an <span style="color:#ff0000">origin</span> (such as a web-server or storage) that will be source of cached  
-\* caches the contents of what origin would returned to various Edge Locations around the world
+==**Amazon CloudFront**== is a Content Delivery Network (CDN) that:
+
+* You point your website to CloudFront so that it will route requests to nearest Edge Location cache 
+* allows you to choose an <span style="color:#ff0000">origin</span> (such as a web-server or storage) that will be source of cached
+
+* caches the contents of what origin would returned to various Edge Locations around the world
 
 ### Amazon S3 Transfer Acceleration
 
