@@ -11,8 +11,8 @@ Amazon Web Services (AWS) provides service-specific operational metrics and log 
 Cloud Trail - logs all API calls (SDK, CLI) between various AWS services
 
  > 
- > \[!tip\] Questions that CloudTrail can answer:  
- > *Who create this bucket?* - detect developer mis-configuration  
+ > \[!example\] Example Questions that CloudTrail can answer:  
+ > *Who created this bucket?* - detect developer mis-configuration  
  > *Who spun up that expensive EC2 instance?* - Detect malicious actors  
  > *Who launched this SageMaker notebook?* - Automate responses
 

@@ -20,7 +20,7 @@ date: 08/15/23
 ![35](images/icons/Organizational_Unit_Icon.png)  
 **Organization Units** are a group of AWS accounts within an organization which can also contain other organizational units - creating a hierarchy
 
-## Service Control Policies
+## Service Control Policies (SCP)
 
 **Service Control Policies** give central control over the allowed permissions for all accounts in your organization, helping to ensure your accounts stay within your organization’s guidelines.
 
@@ -29,6 +29,6 @@ date: 08/15/23
  > 
  > * AWS Organizations must be turned on, once turned it cannot be turned off.
  > * You can create as many AWS Accounts as you like, one account will be the Master/Root Account
- > * AWS Account is <span style="color:#f8857d">not</span> the same as a User Account
+ > * An AWS Account is <span style="color:#f8857d">not</span> the same as a User Account
 
 ![](images/16_Governance/16-01/16-01_Diagram.drawio.svg)

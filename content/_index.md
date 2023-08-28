@@ -3,9 +3,9 @@ title: Homepage
 date: 07/09/23
 ---
 
-0. Introduction
+1. Introduction
    1. [00-01 Exam Details](AWS%20CCP/00%20Introduction/00-01%20Exam%20Details.md)
-0. What is Cloud Computing?
+1. What is Cloud Computing?
    1. [01-01 Evolution of Cloud Hosting](AWS%20CCP/01%20Cloud%20Concepts/01-01%20Evolution%20of%20Cloud%20Hosting.md)
    1. [01-02 Cloud Service Provider CSP](AWS%20CCP/01%20Cloud%20Concepts/01-02%20Cloud%20Service%20Provider%20CSP.md)
    1. [01-03 Landscape of CSPs](AWS%20CCP/01%20Cloud%20Concepts/01-03%20Landscape%20of%20CSPs.md)
@@ -15,9 +15,9 @@ date: 07/09/23
    1. [01-07 Types of Cloud Computing](AWS%20CCP/01%20Cloud%20Concepts/01-07%20Types%20of%20Cloud%20Computing.md)
    1. [01-08 Cloud Computing Deployment Models](AWS%20CCP/01%20Cloud%20Concepts/01-08%20Cloud%20Computing%20Deployment%20Models.md)
    1. [01-09 Deployment Model Use Cases](AWS%20CCP/01%20Cloud%20Concepts/01-09%20Deployment%20Model%20Use%20Cases.md)
-0. The Benefits of Cloud
+1. The Benefits of Cloud
    1. [02-01 Six Advantages of Cloud](AWS%20CCP/02%20Benefits%20of%20Cloud/02-01%20Six%20Advantages%20of%20Cloud.md)
-0. Global Infrastructure
+1. Global Infrastructure
    1. [03-01 Global Infrastructure](AWS%20CCP/03%20Global%20Infrastructure/03-01%20Global%20Infrastructure.md)
    1. [03-02 Availability Zone](AWS%20CCP/03%20Global%20Infrastructure/03-02%20Availability%20Zone.md)
    1. [03-03 Fault Tolerance](AWS%20CCP/03%20Global%20Infrastructure/03-03%20Fault%20Tolerance.md)
@@ -29,7 +29,7 @@ date: 07/09/23
    1. [03-09 AWS in China](AWS%20CCP/03%20Global%20Infrastructure/03-09%20AWS%20in%20China.md)
    1. [03-10 Ground Station](AWS%20CCP/03%20Global%20Infrastructure/03-10%20Ground%20Station.md)
    1. [03-11 Outposts](AWS%20CCP/03%20Global%20Infrastructure/03-11%20Outposts.md)
-0. Cloud Architecture
+1. Cloud Architecture
    1. [04-01 Cloud Architecture Terminologies](AWS%20CCP/04%20Cloud%20Architecture/04-01%20Cloud%20Architecture%20Terminologies.md)
    1. [04-02 High Availability](AWS%20CCP/04%20Cloud%20Architecture/04-02%20High%20Availability.md)
    1. [04-03 High Scalability](AWS%20CCP/04%20Cloud%20Architecture/04-03%20High%20Scalability.md)
@@ -40,47 +40,47 @@ date: 07/09/23
    1. [04-08 Disaster Recovery Options](AWS%20CCP/04%20Cloud%20Architecture/04-08%20Disaster%20Recovery%20Options.md)
    1. [04-09 Recovery Time Objective RTO](AWS%20CCP/04%20Cloud%20Architecture/04-09%20Recovery%20Time%20Objective%20RTO.md)
    1. [04-10 Recovery Point Objective RPO](AWS%20CCP/04%20Cloud%20Architecture/04-10%20Recovery%20Point%20Objective%20RPO.md) 
-0. Management and Development Tools
+1. Management and Development Tools
    1. [05-01 AWS API](AWS%20CCP/05%20Management%20and%20Development%20Tools/05-01%20AWS%20API.md)
    1. [05-02 Amazon Resource Names ARN](AWS%20CCP/05%20Management%20and%20Development%20Tools/05-02%20Amazon%20Resource%20Names%20ARN.md)
    1. [05-03 Access Keys](AWS%20CCP/05%20Management%20and%20Development%20Tools/05-03%20Access%20Keys.md)
    1. [05-04 Infrastructure as Code IaC](AWS%20CCP/05%20Management%20and%20Development%20Tools/05-04%20Infrastructure%20as%20Code%20IaC.md)
-0. Shared Responsibility Model
+1. Shared Responsibility Model
    1. [06-01 Shared Responsibility Model](AWS%20CCP/06%20Shared%20Responsibility%20Model/06-01%20Shared%20Responsibility%20Model.md)
    1. [06-02 Types of Cloud Computing Responsibility](AWS%20CCP/06%20Shared%20Responsibility%20Model/06-02%20Types%20of%20Cloud%20Computing%20Responsibility.md)
    1. [06-03 Shared Responsibility Model - Compute](AWS%20CCP/06%20Shared%20Responsibility%20Model/06-03%20Shared%20Responsibility%20Model%20-%20Compute.md)
    1. [06-04 Shared Responsibility Model - Architecture](AWS%20CCP/06%20Shared%20Responsibility%20Model/06-04%20Shared%20Responsibility%20Model%20-%20Architecture.md)
-0. Compute
+1. Compute
    1. [07-01 EC2 Overview](AWS%20CCP/07%20Compute/07-01%20EC2%20Overview.md)
    1. [07-02 VMs, Containers and Serverless](AWS%20CCP/07%20Compute/07-02%20VMs,%20Containers%20and%20Serverless.md)
    1. [07-03 High Performance Computing HPC](AWS%20CCP/07%20Compute/07-03%20High%20Performance%20Computing%20HPC.md)
    1. [07-04 Edge and Hybrid Computing Services](AWS%20CCP/07%20Compute/07-04%20Edge%20and%20Hybrid%20Computing%20Services.md)
    1. [07-05 Compute Cost and Capacity Management](AWS%20CCP/07%20Compute/07-05%20Compute%20Cost%20and%20Capacity%20Management.md)
-0. Storage
+1. Storage
    1. [08-01 Types of Storage Services](AWS%20CCP/08%20Storage/08-01%20Types%20of%20Storage%20Services.md)
    1. [08-02 Introduction to S3](AWS%20CCP/08%20Storage/08-02%20Introduction%20to%20S3.md)
    1. [08-03 S3 Storage Classes](AWS%20CCP/08%20Storage/08-03%20S3%20Storage%20Classes.md)
    1. [08-04 AWS Snow Family](AWS%20CCP/08%20Storage/08-04%20AWS%20Snow%20Family.md)
    1. [08-05 Storage Services](AWS%20CCP/08%20Storage/08-05%20Storage%20Services.md)
-0. Networking
+1. Networking
    1. [09-01 Cloud Networking Services](AWS%20CCP/09%20Networking/09-01%20Cloud%20Networking%20Services.md)
    1. [09-02 Enterprise Hybrid Networking Services](AWS%20CCP/09%20Networking/09-02%20Enterprise%20Hybrid%20Networking%20Services.md)
    1. [09-03 Security Groups vs NACLs](AWS%20CCP/09%20Networking/09-03%20Security%20Groups%20vs%20NACLs.md)
    1. [09-04 Virtual Private Cloud (VPC) and Subnets](AWS%20CCP/09%20Networking/09-04%20Virtual%20Private%20Cloud%20%28VPC%29%20and%20Subnets.md)
-0. Databases
+1. Databases
    1. [10-01 Data Warehouse](AWS%20CCP/10%20Databases/10-01%20Data%20Warehouse.md)
    1. [10-02 Key-Value Database](AWS%20CCP/10%20Databases/10-02%20Key-Value%20Database.md)
    1. [10-03 Document Database](AWS%20CCP/10%20Databases/10-03%20Document%20Database.md)
    1. [10-04 NoSQL Database Service](AWS%20CCP/10%20Databases/10-04%20NoSQL%20Database%20Service.md)
    1. [10-05 Relational Database Services](AWS%20CCP/10%20Databases/10-05%20Relational%20Database%20Services.md)
    1. [10-06 Other Database Services](AWS%20CCP/10%20Databases/10-06%20Other%20Database%20Services.md)
-0. EC2
+1. EC2
    1. [11-01 Introduction to EC2](AWS%20CCP/11%20EC2/11-01%20Introduction%20to%20EC2.md)
    1. [11-02 EC2 Instance Families](AWS%20CCP/11%20EC2/11-02%20EC2%20Instance%20Families.md)
    1. [11-03 EC2 Instance Types](AWS%20CCP/11%20EC2/11-03%20EC2%20Instance%20Types.md)
    1. [11-04 EC2 Dedicated Host vs Instance](AWS%20CCP/11%20EC2/11-04%20EC2%20Dedicated%20Host%20vs%20Instance.md)
    1. [11-05 EC2 Tenacy](AWS%20CCP/11%20EC2/11-05%20EC2%20Tenacy.md)
-0. EC2 Pricing Models
+1. EC2 Pricing Models
    1. [12-01 EC2 Pricing Models](AWS%20CCP/12%20EC2%20Pricing%20Models/12-01%20EC2%20Pricing%20Models.md)
    1. [12-02 On Demand](AWS%20CCP/12%20EC2%20Pricing%20Models/12-02%20On%20Demand.md)
    1. [12-03 Reserved Instances](AWS%20CCP/12%20EC2%20Pricing%20Models/12-03%20Reserved%20Instances.md)
@@ -94,7 +94,7 @@ date: 07/09/23
    1. [12-11 Dedicated Host Instances](AWS%20CCP/12%20EC2%20Pricing%20Models/12-11%20Dedicated%20Host%20Instances.md)
    1. [12-12 AWS Savings Plan](AWS%20CCP/12%20EC2%20Pricing%20Models/12-12%20AWS%20Savings%20Plan.md)
    1. [12-13 Cheat Sheet](AWS%20CCP/12%20EC2%20Pricing%20Models/12-13%20Cheat%20Sheet.md)
-0. Identity
+1. Identity
    1. [13-01 Zero Trust Model](AWS%20CCP/13%20Identity/13-01%20Zero%20Trust%20Model.md)
    1. [13-02 Zero Trust on AWS](AWS%20CCP/13%20Identity/13-02%20Zero%20Trust%20on%20AWS.md)
    1. [13-03 Zero Trust on AWS with Third Parties](AWS%20CCP/13%20Identity/13-03%20Zero%20Trust%20on%20AWS%20with%20Third%20Parties.md)
@@ -110,7 +110,7 @@ date: 07/09/23
    1. [13-13 Principle of Least Privilege PoLP](AWS%20CCP/13%20Identity/13-13%20Principle%20of%20Least%20Privilege%20PoLP.md)
    1. [13-14 AWS Account Root User](AWS%20CCP/13%20Identity/13-14%20AWS%20Account%20Root%20User.md)
    1. [13-15 AWS Single-Sign On](AWS%20CCP/13%20Identity/13-15%20AWS%20Single-Sign%20On.md)
-0. Application Integration
+1. Application Integration
    1. [14-01 Introduction to Application Integration](AWS%20CCP/14%20Application%20Integration/14-01%20Introduction%20to%20Application%20Integration.md)
    1. [14-02 Queuing](AWS%20CCP/14%20Application%20Integration/14-02%20Queuing.md)
    1. [14-03 Streaming](AWS%20CCP/14%20Application%20Integration/14-03%20Streaming.md)
@@ -119,14 +119,14 @@ date: 07/09/23
    1. [14-06 State Machines](AWS%20CCP/14%20Application%20Integration/14-06%20State%20Machines.md)
    1. [14-07 Event Bus](AWS%20CCP/14%20Application%20Integration/14-07%20Event%20Bus.md)
    1. [14-08 Application Integration Services](AWS%20CCP/14%20Application%20Integration/14-08%20Application%20Integration%20Services.md)
-0. Containers
+1. Containers
    1. [15-01 VMs vs Containers](AWS%20CCP/15%20Containers/15-01%20VMs%20vs%20Containers.md)
    1. [15-02 Microservices](AWS%20CCP/15%20Containers/15-02%20Microservices.md)
    1. [15-03 Kubernetes](AWS%20CCP/15%20Containers/15-03%20Kubernetes.md)
    1. [15-04 Docker](AWS%20CCP/15%20Containers/15-04%20Docker.md)
    1. [15-05 Podman Buildah and Skopeo](AWS%20CCP/15%20Containers/15-05%20Podman%20Buildah%20and%20Skopeo.md)
    1. [15-06 Container Services](AWS%20CCP/15%20Containers/15-06%20Container%20Services.md)
-0. Governance
+1. Governance
    1. [16-01 Organizations and Accounts](AWS%20CCP/16%20Governance/16-01%20Organizations%20and%20Accounts.md)
    1. [16-02 AWS Control Tower](AWS%20CCP/16%20Governance/16-02%20AWS%20Control%20Tower.md)
    1. [16-03 AWS Config](AWS%20CCP/16%20Governance/16-03%20AWS%20Config.md)
@@ -134,16 +134,16 @@ date: 07/09/23
    1. [16-05 Tagging](AWS%20CCP/16%20Governance/16-05%20Tagging.md)
    1. [16-06 Resource Groups](AWS%20CCP/16%20Governance/16-06%20Resource%20Groups.md)
    1. [16-07 Business Centric Services](AWS%20CCP/16%20Governance/16-07%20Business%20Centric%20Services.md)
-0. Provisioning Services
+1. Provisioning Services
    1. [17-01 Provisioning Services](AWS%20CCP/17%20Provisioning%20Services/17-01%20Provisioning%20Services.md)
    1. [17-02 AWS Elastic Beanstalk](AWS%20CCP/17%20Provisioning%20Services/17-02%20AWS%20Elastic%20Beanstalk.md)
-0. Serverless Services
+1. Serverless Services
    1. [18-01 What is Serverless?](AWS%20CCP/18%20Serverless%20Services/18-01%20What%20is%20Serverless%3F.md)
    1. [18-02 Serverless Services](AWS%20CCP/18%20Serverless%20Services/18-02%20Serverless%20Services.md)
-0. Windows on AWS
+1. Windows on AWS
    1. [19-01 Windows on AWS](AWS%20CCP/19%20Windows%20on%20AWS/19-01%20Windows%20on%20AWS.md)
    1. [19-02 AWS License Manager](AWS%20CCP/19%20Windows%20on%20AWS/19-02%20AWS%20License%20Manager.md)
-0. Logging
+1. Logging
    1. [20-01 Logging Services](AWS%20CCP/20%20Logging/20-01%20Logging%20Services.md)
    1. [20-02 AWS CloudTrail](AWS%20CCP/20%20Logging/20-02%20AWS%20CloudTrail.md)
    1. [20-03 CloudWatch Alarms](AWS%20CCP/20%20Logging/20-03%20CloudWatch%20Alarms.md)
@@ -151,12 +151,12 @@ date: 07/09/23
    1. [20-05 Log Streams](AWS%20CCP/20%20Logging/20-05%20Log%20Streams.md)
    1. [20-06 Log Insights](AWS%20CCP/20%20Logging/20-06%20Log%20Insights.md)
    1. [20-07 CloudWatch Metrics](AWS%20CCP/20%20Logging/20-07%20CloudWatch%20Metrics.md)
-0. ML, AI and Big Data
+1. ML, AI and Big Data
    1. [21-01 Machine Learning and AI Services](AWS%20CCP/21%20ML,%20AI%20and%20Big%20Data/21-01%20Machine%20Learning%20and%20AI%20Services.md)
    1. [21-02 Machine Learning and AI Services](AWS%20CCP/21%20ML,%20AI%20and%20Big%20Data/21-02%20Machine%20Learning%20and%20AI%20Services.md)
    1. [21-03 Big Data and Analytics Services](AWS%20CCP/21%20ML,%20AI%20and%20Big%20Data/21-03%20Big%20Data%20and%20Analytics%20Services.md)
    1. [21-04 Amazon QuickSight](AWS%20CCP/21%20ML,%20AI%20and%20Big%20Data/21-04%20Amazon%20QuickSight.md)
-0. AWS Well-Architected Framework
+1. AWS Well-Architected Framework
    1. [22-01 AWS Well-Architected Framework](AWS%20CCP/22%20AWS%20Well-Architected%20Framework/22-01%20AWS%20Well-Architected%20Framework.md)
    1. [22-02 General Definitions](AWS%20CCP/22%20AWS%20Well-Architected%20Framework/22-02%20General%20Definitions.md)
    1. [22-03 On Architecture](AWS%20CCP/22%20AWS%20Well-Architected%20Framework/22-03%20On%20Architecture.md)
@@ -170,7 +170,7 @@ date: 07/09/23
    1. [22-11 Cost Optimization Design Principles](AWS%20CCP/22%20AWS%20Well-Architected%20Framework/22-11%20Cost%20Optimization%20Design%20Principles.md)
    1. [22-12 AWS Well-Architected Tool](AWS%20CCP/22%20AWS%20Well-Architected%20Framework/22-12%20AWS%20Well-Architected%20Tool.md)
    1. [22-13 AWS Architecture Center](AWS%20CCP/22%20AWS%20Well-Architected%20Framework/22-13%20AWS%20Architecture%20Center.md)
-0. TCO and Migration
+1. TCO and Migration
    1. [23-01 Total Cost of Ownership TCO](AWS%20CCP/23%20TCO%20and%20Migration/23-01%20Total%20Cost%20of%20Ownership%20TCO.md)
    1. [23-02 CAPEX vs OPEX](AWS%20CCP/23%20TCO%20and%20Migration/23-02%20CAPEX%20vs%20OPEX.md)
    1. [23-03 Does Cloud Make IT Personnel Redundant?](AWS%20CCP/23%20TCO%20and%20Migration/23-03%20Does%20Cloud%20Make%20IT%20Personnel%20Redundant%3F.md)
@@ -179,7 +179,7 @@ date: 07/09/23
    1. [23-06 EC2 VM Import and Export](AWS%20CCP/23%20TCO%20and%20Migration/23-06%20EC2%20VM%20Import%20and%20Export.md)
    1. [23-07 Database Migration Service DMS](AWS%20CCP/23%20TCO%20and%20Migration/23-07%20Database%20Migration%20Service%20DMS.md)
    1. [23-08 AWS Cloud Adoption Framework CAF](AWS%20CCP/23%20TCO%20and%20Migration/23-08%20AWS%20Cloud%20Adoption%20Framework%20CAF.md)
-0. Billing, Pricing, and Support
+1. Billing, Pricing, and Support
    1. [24-01 AWS Free Services](AWS%20CCP/24%20Billing,%20Pricing,%20and%20Support/24-01%20AWS%20Free%20Services.md)
    1. [24-02 AWS Support Plans](AWS%20CCP/24%20Billing,%20Pricing,%20and%20Support/24-02%20AWS%20Support%20Plans.md)
    1. [24-03 Technical Account Manager (TAM)](AWS%20CCP/24%20Billing,%20Pricing,%20and%20Support/24-03%20Technical%20Account%20Manager%20%28TAM%29.md)
@@ -201,7 +201,7 @@ date: 07/09/23
    1. [24-19 Billing Alerts and Alarms](AWS%20CCP/24%20Billing,%20Pricing,%20and%20Support/24-19%20Billing%20Alerts%20and%20Alarms.md)
    1. [24-20 AWS Cost Explorer](AWS%20CCP/24%20Billing,%20Pricing,%20and%20Support/24-20%20AWS%20Cost%20Explorer.md)
    1. [24-21 AWS Pricing API](AWS%20CCP/24%20Billing,%20Pricing,%20and%20Support/24-21%20AWS%20Pricing%20API.md)
-0. Security
+1. Security
    1. [25-01 Defense in Depth](AWS%20CCP/25.%20Security/25-01%20Defense%20in%20Depth.md)
    1. [25-02 Confidentiality, Integrity, Availability CIA](AWS%20CCP/25.%20Security/25-02%20Confidentiality,%20Integrity,%20Availability%20CIA.md)
    1. [25-03 Vulnerability](AWS%20CCP/25.%20Security/25-03%20Vulnerability.md)
@@ -225,6 +225,23 @@ date: 07/09/23
 
 Quizzes
 
-1. [Chapter 1 - What is Cloud Computing](AWS%20CCP/z.%20Textbook%20Quizzes/Chapter%201%20-%20What%20is%20Cloud%20Computing.md)
-1. [Chapter 2 - Introduction to AWS and the Global Infrastructure](AWS%20CCP/z.%20Textbook%20Quizzes/Chapter%202%20-%20Introduction%20to%20AWS%20and%20the%20Global%20Infrastructure.md)
-1. [Chapter 3 - User Accounts](AWS%20CCP/z.%20Textbook%20Quizzes/Chapter%203%20-%20User%20Accounts.md)
+1. [26-01 What is Cloud Computing](AWS%20CCP/26%20Textbook%20Quizzes/26-01%20What%20is%20Cloud%20Computing.md)
+1. [26-02 Introduction to AWS and the Global Infrastructure](AWS%20CCP/26%20Textbook%20Quizzes/26-02%20Introduction%20to%20AWS%20and%20the%20Global%20Infrastructure.md)
+1. [26-03 User Accounts](AWS%20CCP/26%20Textbook%20Quizzes/26-03%20User%20Accounts.md)
+1. [26-04 Identity and Access Management](AWS%20CCP/26%20Textbook%20Quizzes/26-04%20Identity%20and%20Access%20Management.md)
+1. [26-05 Amazon Simple Storage S3](AWS%20CCP/26%20Textbook%20Quizzes/26-05%20Amazon%20Simple%20Storage%20S3.md)
+1. [26-06 VPCs Route53 and CloudFront](AWS%20CCP/26%20Textbook%20Quizzes/26-06%20VPCs%20Route53%20and%20CloudFront.md)
+1. [26-07 AWS Compute Services](AWS%20CCP/26%20Textbook%20Quizzes/26-07%20AWS%20Compute%20Services.md)
+1. [26-08 AWS Database Services](AWS%20CCP/26%20Textbook%20Quizzes/26-08%20AWS%20Database%20Services.md)
+1. [26-09 High Availability and Elasticity on AWS](AWS%20CCP/26%20Textbook%20Quizzes/26-09%20High%20Availability%20and%20Elasticity%20on%20AWS.md)
+1. [26-10 Application Integration Services](AWS%20CCP/26%20Textbook%20Quizzes/26-10%20Application%20Integration%20Services.md)
+1. [26-11 Analytics on AWS](AWS%20CCP/26%20Textbook%20Quizzes/26-11%20Analytics%20on%20AWS.md)
+1. [26-12 Automation and Deployment on AWS](AWS%20CCP/26%20Textbook%20Quizzes/26-12%20Automation%20and%20Deployment%20on%20AWS.md)
+1. [26-13 Management and Governance on AWS](AWS%20CCP/26%20Textbook%20Quizzes/26-13%20Management%20and%20Governance%20on%20AWS.md)
+1. [26-14 Implementing Security in AWS](AWS%20CCP/26%20Textbook%20Quizzes/26-14%20Implementing%20Security%20in%20AWS.md)
+1. [26-15 Billing and Pricing](AWS%20CCP/26%20Textbook%20Quizzes/26-15%20Billing%20and%20Pricing.md)
+
+ > 
+ > \[!warning\]+ Disclaimer
+ > 
+ > These notes were **not** created by me. I have simply transcribed all the notes from Andrew Brown's free videos on CodeCademy. And, the quizzes in Chapter 26 are from Rajesh Daswani's book.
